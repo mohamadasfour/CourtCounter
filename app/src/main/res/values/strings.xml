@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="who">Who Wins</string>
+    <string name="winner1">Winner</string>
+    <string name="one3">free throw</string>
+    <string name="two1">+2 point</string>
+    <string name="zero">0</string>
+    <string name="name2">Chicago Bulls</string>
+    <string name="one1">free throw</string>
+    <string name="three1">+3 point</string>
+    <string name="reset1">Reset</string>
+    <string name="name1">Boston Celtics</string>
+    <string name="score">0</string>
+    <string name="three2">+3 point</string>
+    <string name="two2">+2 point</string>
+    <string name="one2">free throw</string>
+    <string name="name3">Chicagoe Bulls</string>
+    <string name="score1">0</string>
+    <string name="three">+3 point</string>
+    <string name="two">+2 point</string>
+    <string name="one">free throw</string>
+    <string name="winner">Winner</string>
+    <string name="win">Who Wins</string>
+    <string name="reset">Reset</string>
+</resources>
